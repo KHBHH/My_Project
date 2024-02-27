@@ -6,3 +6,5 @@ myfunc_sum <- function(x,y){
 
 #examples
 myfunc_sum(33,33)
+
+myfunc_sum(20,60)

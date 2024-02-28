@@ -4,5 +4,6 @@ data my_dataset;
 John 25 180 75
 Jane 30 165 60
 Mayuri 30 163 65
+Pratik 35 180 70
 ;
 run;
